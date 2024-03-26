@@ -4,6 +4,7 @@ public class Apresentacao {
 
     public void apresentar() {
         this.lucasSouza();
+        this.JoaoPedro();
     }
 
     private void lucasSouza() {
