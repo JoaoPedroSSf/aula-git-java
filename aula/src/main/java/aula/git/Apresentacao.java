@@ -10,4 +10,9 @@ public class Apresentacao {
         System.out.println("");
         System.out.println("Estou colaborando com o git");
     }
+
+    private void JoaoPedro() {
+        System.out.println("");
+        System.out.println("Estou.");
+    }
 }
